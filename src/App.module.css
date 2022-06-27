@@ -21,7 +21,7 @@
     html {
         font-size: 87.5%;
     }
-    /* vai apresentado apenas em uma coluna */
+    /* vai ser apresentado apenas em uma coluna */
     .wrapper {
         grid-template-columns: 1fr;
     }
