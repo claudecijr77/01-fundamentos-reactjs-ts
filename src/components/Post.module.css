@@ -56,12 +56,12 @@
 /*    outline: 2px solid var(--green-500);*/
 /*}*/
 
-.authorInfo {
+/*.authorInfo {*/
     /*display: flex;*/
     /* força que eles fiquem em linha e não um abaixo do outro
     (mesma coisa do "display: block" em cada componente ) */
     /*flex-direction: column;*/
-}
+/*}*/
 
 .authorInfo strong {
     /* força que eles fiquem em linha e não um abaixo do outro */
